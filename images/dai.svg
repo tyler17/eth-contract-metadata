@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="410px" height="405px" viewBox="0 0 410 405" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>DAI_logo--icon_v0.1_shadow</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-3.7%" y="-3.0%" width="107.3%" height="107.2%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.63756909   0 0 0 0 0.600261839   0 0 0 0 0.600261839  0 0 0 0.77955163 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-28" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DAI_logo--icon_v0.1_shadow">
+            <g id="Group-3" filter="url(#filter-1)" transform="translate(48.000000, 43.000000)">
+                <g id="Group-2" transform="translate(0.000000, 1.400342)">
+                    <g id="Group">
+                        <rect id="Rectangle-20" fill="#FBBA00" transform="translate(155.715109, 155.527756) rotate(-315.000000) translate(-155.715109, -155.527756) " x="46.1639978" y="45.6009179" width="219.102222" height="219.853675"></rect>
+                        <polygon id="Rectangle-20-Copy" fill="#F7A600" transform="translate(155.715109, 155.527756) rotate(-315.000000) translate(-155.715109, -155.527756) " points="46.1639978 45.6009179 265.26622 45.6009179 196.174189 196.125597 46.1639978 265.454593"></polygon>
+                        <path d="M49.6308863,143.622182 L121.115735,143.622182 L156.228374,108.481929 L191.040203,143.321135 C191.040203,143.321135 265.959574,145.530206 261.569681,143.321135 C257.179788,141.112065 154.809125,36.4766198 154.809125,36.4766198 L49.6308863,143.622182 Z" id="Path-1" fill="#FEFFFE"></path>
+                    </g>
+                </g>
+                <polygon id="Rectangle-1-Copy-2" fill="#0A122A" opacity="0.286333955" style="mix-blend-mode: multiply;" transform="translate(231.937840, 157.538248) rotate(1.000000) translate(-231.937840, -157.538248) " points="152.789632 1.43001908 311.086048 154.819372 158.918647 313.646477"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
